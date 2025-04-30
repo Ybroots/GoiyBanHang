@@ -1,0 +1,22 @@
+{
+  "name": "my-mvc-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aos": "^2.3.4",
+    "body-parser": "^2.2.0",
+    "bootstrap": "^5.3.5",
+    "express": "^5.1.0",
+    "express-handlebars": "^8.0.3",
+    "sequelize": "^6.37.7",
+    "sqlite3": "^5.1.7",
+    "sweetalert2": "^11.19.1"
+  },
+  "description": ""
+}
